@@ -1,5 +1,5 @@
 # Suduko-Solver
-Implemented the backtracking algorithm to find a solution to any solvable game.
+Implemented the backtracking algorithm to find a solution to any solvable game. credit: techWithTim
 
 # Input
 Enter any 9*9 board as an input 
